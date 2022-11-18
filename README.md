@@ -1,2 +1,3 @@
-# JavaScriptPractice
-Created with CodeSandbox
+# JavaScript学習
+
+JavaScriptについての学習
